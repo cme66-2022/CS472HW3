@@ -1,0 +1,12 @@
+Running the Server
+
+GETTING STARTED:
+
+To run the server you will need to open two windows in pycharm. One window will contain the server class and the other the client class
+Once both windows are open, you will need to run the server class first and then you can connect the client class after
+
+STARTING THE SERVER:
+To start the server, all you need to do is press the green play button at the bottom of the code. Following this you will need to change windows to start the client
+
+STARTING THE CLIENT:
+To start the client you will open a terminal at the bottom of your pycharm window and type "python3 Client.py" and press the "Enter" button.
